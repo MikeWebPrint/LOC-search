@@ -1,6 +1,4 @@
 var searchForm = document.querySelector('#search-form')
-var searchInput = document.querySelector('#search-input')
-var formatInput = document.querySelector('#format-input')
 
 
 var getLOCinfo = function (topic, format) {
